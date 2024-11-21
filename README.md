@@ -52,13 +52,13 @@ O objetivo é criar portfólios eficientes, minimizando o risco para um dado ret
 ## 📂 **Como Executar**
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-2. Instale as dependências:
+   git clone https://github.com/gianmalfate/markowitz-portfolio.git
+2. Instale as dependências necessárias:
     ```bash
-    pip install -r requirements.txt
-3. Execute o notebook ou script:
+    pip install numpy pandas matplotlib seaborn yfinance
+3. Abra o notebook e execute as células:
     ```bash
-    python analise_portfolio.py
+    jupyter notebook Trabalho_1_Fronteira_eficiente_de_Markowitz.ipynb
 
 🛠 Tecnologias Utilizadas
 - Python
