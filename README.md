@@ -60,7 +60,7 @@ O objetivo é criar portfólios eficientes, minimizando o risco para um dado ret
     ```bash
     jupyter notebook Trabalho_1_Fronteira_eficiente_de_Markowitz.ipynb
 
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 - Python
 - Bibliotecas:
     - `numpy`
@@ -69,7 +69,7 @@ O objetivo é criar portfólios eficientes, minimizando o risco para um dado ret
     - `seaborn`
     - `yfinance`
 
-📧 Contato
+## 📧 Contato
 
 Para dúvidas ou sugestões, entre em contato:
 - Email: gianmalfate@gmail.com
